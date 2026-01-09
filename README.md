@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @Berison
-- 👀 I’m interested in JS, Angular
+- 👀 I’m interested in JS, Angular and React
